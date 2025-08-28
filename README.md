@@ -1,7 +1,5 @@
 # 🌐 Exos’ Web
 
-![Logo](Logo_Horizontale_Blanc.png)
-
 > 🚀 Création de sites internet & logiciels web • Hébergement & gestion de domaines • Solutions digitales sur mesure
 
 ---
