@@ -20,10 +20,10 @@ Notre objectif : fournir des solutions **clés en main** adaptées aux besoins d
 ## 🛠️ Technologies utilisées
 Nous travaillons avec les technologies les plus robustes et modernes :  
 
-- ⚡ **Frontend** : HTML5, TailwindCSS, React  
-- ⚙️ **Backend** : Node.js, Express, PHP  
-- 🗄️ **Bases de données** : MySQL, PostgreSQL  
-- ☁️ **Hébergement** : Plesk, Nginx, Docker  
-- 🔐 **Sécurité** : HTTPS/SSL, RGPD, sauvegardes automatiques  
+- ⚡ **Frontend** : HTML5, CSS  
+- ⚙️ **Backend** : Node.js
+- 🗄️ **Bases de données** : MySQL, MariaDB  
+- ☁️ **Hébergement** : Plesk 
+- 🔐 **Sécurité** : HTTPS/SSL, sauvegardes automatiques  
 
 ---
